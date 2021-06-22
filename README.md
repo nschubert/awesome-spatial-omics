@@ -15,7 +15,7 @@ At the moment we distinguish these main sections:
   - Spatial Multi Modal Methods & Tools
   - Others (if any)
 
-This repo is inspired to the [Mike Love's Awesome Multi Omics](https://github.com/seandavi/awesome-single-cell) and the [Sean Davis' Awesome Single Cell](https://github.com/mikelove/awesome-multi-omics) ones.
+This repo is inspired to the [Mike Love's Awesome Multi Omics](https://github.com/mikelove/awesome-multi-omics) and the [Sean Davis' Awesome Single Cell](https://github.com/seandavi/awesome-single-cell) ones.
 
 ## Spatial Omics Technologies
 
@@ -54,6 +54,8 @@ Following subsection will be subsequently divided by argument while collecting t
 |Year|Title|Language|Description|Reference|
 |:-:|:--|:-:|:--|:--|
 |2021|[Giotto](http://spatialgiotto.rc.fas.harvard.edu/)|R|Toolbox for integrative analysis and visualization of spatial expression data|[Dries et al. 2021](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02286-2)|
+|2021|[Seurat v4 - spatial vignette](https://satijalab.org/seurat/articles/spatial_vignette.html)|R|Toolbox for single cell genomics and spatial datasets|[Hao et al. 2021](https://doi.org/10.1016/j.cell.2021.04.048)|
+|2021|[BayesSpace](http://www.bioconductor.org/packages/release/bioc/vignettes/BayesSpace/inst/doc/BayesSpace.html)|R|Spatial transcriptomics at subspot resolution with BayesSpace|[Zhao et al. 2021](https://www.nature.com/articles/s41587-021-00935-2)|
 
 ### Spatial Multi Modal Methods & Tools
 
